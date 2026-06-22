@@ -58,6 +58,8 @@ IBM Telco Customer Churn dataset (7,043 customers, 26 features), reframed under 
 
 ### Machine learning model
 
+![Model results — SHAP feature importance](Images/feat_importance.png)
+
 ![Model results — SHAP feature importance](Images/shap_summary.png)
 
 ### Interactive dashboard
@@ -68,7 +70,7 @@ IBM Telco Customer Churn dataset (7,043 customers, 26 features), reframed under 
 
 ### Executive presentation
 
-**[→ View the 5-slide executive deck on Google Slides]()**
+**[→ View the 5-slide executive deck on Google Slides](https://docs.google.com/presentation/d/1M74fd_PI9YJnBa5bb1z-oeDz8704pR7FUK652qnr0nc/edit?usp=sharing)**
 
 ---
 
